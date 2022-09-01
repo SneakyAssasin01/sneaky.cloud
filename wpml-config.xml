@@ -1,0 +1,81 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">title</custom-field>
+        <custom-field action="translate">description</custom-field>
+        <custom-field action="translate">keywords</custom-field>
+    </custom-fields>  
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>                
+        <key name="icl_language_switcher_sidebar">0</key>        
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>                
+    </language-switcher-settings>
+   <admin-texts>
+        <key name="computer_repair_opt">
+            <key name="computer_repair-page-header-mobile-location" />
+            <key name="computer_repair-page-header-mobile-phone" />
+            <key name="computer_repair-page-header-mobile-email" />
+            <key name="computer_repair-page-header-mobile-hour" />
+            <key name="computer_repair-header-map-info" />
+            <key name="computer_repair-header-hours-info" />
+            <key name="computer_repair-site-contact-info" />
+            <key name="computer_repair-site-contact-no" />
+            <key name="computer_repair-site-email-no" />
+            <key name="computer_repair-site-email-no" />
+            <key name="computer_repair-header_social_facebook" />
+            <key name="computer_repair-header_social_twitter" />
+            <key name="computer_repair-header_social_google_plus" />
+            <key name="computer_repair-header_social_google_plus" />
+            <key name="modal_title" />
+            <key name="modal_mc_form" />
+            <key name="modal2_title" />
+            <key name="modal2_mc_form" />
+            <key name="computer_repair-footer_social_facebook" />
+            <key name="computer_repair-footer_social_twitter" />
+            <key name="computer_repair-footer_social_google_plus" />
+            <key name="computer_repair-footer_social_pinterest" />
+            <key name="computer_repair-footer_social_linkedin" />
+            <key name="computer_repair-footer_social_instagram" />
+            <key name="computer_repair-footer_social_tumblr" />
+            <key name="computer_repair-footer_social_vimeo" />
+            <key name="computer_repair-footer_contact_info" />
+            <key name="computer_repair-footer_contact_phone" />
+            <key name="computer_repair-footer_contact_location" />
+            <key name="computer_repair-footer_business_hours" />
+            <key name="computer_repair-footer_email" />
+            <key name="computer_repair-footer_link_one_url" />
+            <key name="computer_repair-footer_link_one_text" />
+            <key name="computer_repair-footer_link_two_url" />
+            <key name="computer_repair-footer_link_two_text" />
+            <key name="computer_repair-footer_copyright" />
+        </key>
+    </admin-texts>

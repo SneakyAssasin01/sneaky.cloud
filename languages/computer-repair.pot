@@ -1,0 +1,2747 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: computer-repair\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2021-07-30 11:48+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_n:1,2;"
+"_nx:4c,1,2;_e;esc_attr_x;esc_html_e;_n_noop;_x:1,2c;_nx_noop:1,2;"
+"_n_noop:1,2\n"
+"X-Poedit-Basepath: /var/www/html/wp-themes/cellphone-fix/wp-content/themes/"
+"computer-repair\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../computer-repair-child-custom/functions.php:34
+msgid "Contacts"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:50
+msgid "Computer Repair Contact List"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:52
+msgid "This widget will display contact list."
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:62
+msgid "Title"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:67
+msgid "Address 1"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:72
+msgid "Address 2"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:77
+msgid "Hours 1"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:81
+msgid "Hours 2"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:86
+msgid "Closed"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:92
+msgid "Facebook"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:98
+msgid "Twitter"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:104
+msgid "Googleplus"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:109
+msgid "Pinterest"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:115
+msgid "Vimeo"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:121
+msgid "Linkedin"
+msgstr ""
+
+#: ../computer-repair-child-custom/functions.php:128
+msgid "Instagram"
+msgstr ""
+
+#: ../computer-repair-child-custom/header.php:121
+#: ../computer-repair-child-custom/header.php:123
+#: ../computer-repair/inc/hooks.php:22 ../computer-repair/inc/hooks.php:24
+#: ../computer-repair/template-parts/header-part-2.php:80
+#: ../computer-repair/template-parts/header-part-2.php:81
+msgid "Logo"
+msgstr ""
+
+#: ../computer-repair-child-custom/header.php:241
+#: ../computer-repair/functions.php:769 ../computer-repair/inc/hooks.php:190
+#: ../computer-repair/template-parts/header-part-2.php:289
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../computer-repair-child-custom/header.php:276
+msgid "Select a Menu from Apperance->Menu"
+msgstr ""
+
+#: ../computer-repair/404.php:21
+msgid "404!"
+msgstr ""
+
+#: ../computer-repair/404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../computer-repair/404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../computer-repair/comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/comments.php:40 ../computer-repair/comments.php:62
+#: ../computer-repair/functions.php:672
+msgid "Comment navigation"
+msgstr ""
+
+#: ../computer-repair/comments.php:42 ../computer-repair/comments.php:64
+#: ../computer-repair/functions.php:675
+msgid "Older Comments"
+msgstr ""
+
+#: ../computer-repair/comments.php:43 ../computer-repair/comments.php:65
+#: ../computer-repair/functions.php:679
+msgid "Newer Comments"
+msgstr ""
+
+#: ../computer-repair/comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: ../computer-repair/comments.php:86 ../computer-repair/comments.php:87
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../computer-repair/comments.php:88
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../computer-repair/comments.php:89
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../computer-repair/comments.php:96
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../computer-repair/comments.php:102
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../computer-repair/comments.php:112
+#: ../computer-repair/woocommerce/single-product-reviews.php:88
+msgid "Name"
+msgstr ""
+
+#: ../computer-repair/comments.php:118
+#: ../computer-repair/woocommerce/single-product-reviews.php:90
+msgid "Email"
+msgstr ""
+
+#: ../computer-repair/comments.php:125
+msgid "Website"
+msgstr ""
+
+#: ../computer-repair/css/custom_style.php:791
+#: ../computer-repair/css/custom_style.php:792
+#: ../computer-repair/css/custom_style.php:793
+#: ../computer-repair/css/custom_style.php:798
+#: ../computer-repair/css/custom_style.php:799
+#: ../computer-repair/css/custom_style.php:800
+#: ../computer-repair/css/custom_style.php:808
+#: ../computer-repair/css/custom_style.php:809
+#: ../computer-repair/css/custom_style.php:810
+#: ../computer-repair/css/custom_style.php:817
+#: ../computer-repair/css/custom_style.php:818
+#: ../computer-repair/css/custom_style.php:819
+#: ../computer-repair/css/custom_style.php:826
+#: ../computer-repair/css/custom_style.php:827
+#: ../computer-repair/css/custom_style.php:828
+#: ../computer-repair/css/custom_style.php:834
+#: ../computer-repair/css/custom_style.php:835
+#: ../computer-repair/css/custom_style.php:836
+#: ../computer-repair/css/custom_style.php:845
+#: ../computer-repair/css/custom_style.php:846
+#: ../computer-repair/css/custom_style.php:847
+#: ../computer-repair/css/custom_style.php:853
+#: ../computer-repair/css/custom_style.php:854
+#: ../computer-repair/css/custom_style.php:855
+#: ../computer-repair/css/custom_style.php:862
+#: ../computer-repair/css/custom_style.php:863
+#: ../computer-repair/css/custom_style.php:864
+#: ../computer-repair/css/custom_style.php:874
+#: ../computer-repair/css/custom_style.php:875
+#: ../computer-repair/css/custom_style.php:876
+#: ../computer-repair/css/custom_style.php:881
+#: ../computer-repair/css/custom_style.php:882
+#: ../computer-repair/css/custom_style.php:883
+#: ../computer-repair/css/custom_style.php:912
+#: ../computer-repair/css/custom_style.php:913
+#: ../computer-repair/css/custom_style.php:914
+#: ../computer-repair/css/custom_style.php:926
+#: ../computer-repair/framework/dashboard/admin/status.php:182
+#: ../computer-repair/framework/dashboard/admin/status.php:344
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:177
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:350
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:354
+#: ../computer-repair/template-parts/content-audio.php:23
+#: ../computer-repair/template-parts/content-search.php:35
+#: ../computer-repair/template-parts/modal.php:12
+#: ../computer-repair/template-parts/modal2.php:14
+#: ../computer-repair/woocommerce/cart/cart.php:95
+#: ../computer-repair/woocommerce/checkout/review-order.php:47
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:332
+#: ../computer-repair/framework/config.tgm.php:112
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:333
+#: ../computer-repair/framework/config.tgm.php:113
+msgid "Install Plugins"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:335
+#: ../computer-repair/framework/config.tgm.php:114
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:338
+#: ../computer-repair/framework/config.tgm.php:115
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:341
+#: ../computer-repair/framework/config.tgm.php:116
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:347
+#: ../computer-repair/framework/config.tgm.php:117
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:353
+#: ../computer-repair/framework/config.tgm.php:122
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:365
+#: ../computer-repair/framework/config.tgm.php:119
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:371
+#: ../computer-repair/framework/config.tgm.php:120
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:376
+#: ../computer-repair/framework/config.tgm.php:124
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:390
+#: ../computer-repair/framework/config.tgm.php:126
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:391
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:917
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2629
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3715
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:392
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3294
+#: ../computer-repair/framework/config.tgm.php:127
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:393
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3087
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:401
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:605
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:606
+msgid "Update Required"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:1024
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:1024
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:1027
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2369
+msgid "Required"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2372
+msgid "Recommended"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2388
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2391
+msgid "External Source"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2394
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2411
+msgid "Not Installed"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2415
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2417
+msgid "Active"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2423
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2426
+msgid "Requires Update"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2429
+msgid "Update recommended"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2438
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2484
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2488
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2492
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2578
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2586
+msgid "Installed version:"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2594
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2606
+msgid "Available version:"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2629
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2643
+msgid "Plugin"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2644
+msgid "Source"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2645
+msgid "Type"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2649
+msgid "Version"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2650
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:332
+msgid "Status"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2702
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2719
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2728
+msgid "Need to Active with Purchase Code"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2724
+msgid "Need to active with Purchase Code"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2819
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2852
+msgid "Install"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2858
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:86
+msgid "Update"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2861
+msgid "Activate"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2892
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2894
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2935
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:2937
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3043
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3069
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3293
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3633
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3636
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3638
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3642
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3644
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3644
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3652
+msgid "Show Details"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3644
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3652
+msgid "Hide Details"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3645
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3650
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3652
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3653
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../computer-repair/framework/class-tgm-plugin-activation.php:3655
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:17
+msgid "Envato Market"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:26
+msgid "Woocommerce"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:35
+msgid "Redux Framework"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:43
+msgid "Meta Box"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:52
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:60
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:68
+msgid "Yoast SEO"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:76
+msgid "Cookie Notice for GDPR"
+msgstr ""
+
+#: ../computer-repair/framework/config.tgm.php:118
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/config.tgm.php:121
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/config.tgm.php:123
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/config.tgm.php:125
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/framework/config.tgm.php:128
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/activation.php:7
+msgid "Theme License Options"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/activation.php:9
+msgid ""
+"First enter your license key in the below field  and click the button \"Save "
+"Changes\". After saving \"Activate License\" Button will be visible."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/activation.php:10
+msgid "Then click \"Activate License\" button for active theme."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/activation.php:18
+msgid "License Key"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/activation.php:41
+msgid ""
+"I give consent to record my site address .a purchase code <br>in order to "
+"ensure License and copyright compliance. <br>I understand,<br> that this "
+"information will be stored as long as the purchase code remains valid. "
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/activation.php:47
+#: ../computer-repair/framework/dashboard/admin/activation.php:55
+msgid "Activate License"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/activation.php:52
+msgid "Deactivate License"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/demo-content-install.php:3
+msgid "You need to Install and Active Demo Importer Plugin For Demo Import."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/getting-started.php:12
+msgid "Implement Recommended Actions"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/getting-started.php:14
+#, php-format
+msgid ""
+"Thank you so much for your purchase of SmartDataSoft's %s theme! %s theme is "
+"designed for you with different layouts, one-click demo installation, "
+"wonderful and unique designs, amazing content blocks, get the price section, "
+"SEO friendly, Sticky menu, WooCommerce and lots more. Enjoy!"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/getting-started.php:18
+msgid ""
+"If you’d like to get support from our team please open up a support ticket "
+"at first. Our support engineers are always ready to get back to you ASAP."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/getting-started.php:22
+msgid "screenshot"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/plugin.php:27
+msgid "Recommended Plugins"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:120
+msgid "WordPress environment"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:125
+msgid "Home URL"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:127
+msgid "The homepage URL of your site."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:132
+msgid "Site URL"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:134
+msgid "The root URL of your site."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:139
+msgid "Theme version"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:141
+msgid "The version of Theme installed on your site."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:147
+msgid "WordPress version"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:149
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:169
+#, php-format
+msgid "%1$s - There is a newer version of WordPress available (%2$s)"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:177
+msgid "WordPress multisite"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:179
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:186
+msgid "WordPress memory limit"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:188
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:193
+#, php-format
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:193
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:201
+msgid "WordPress debug mode"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:203
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:214
+msgid "WordPress cron"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:216
+msgid "Displays whether or not WP Cron Jobs are enabled."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:227
+msgid "Language"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:229
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:234
+msgid "External object cache"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:236
+msgid "Displays whether or not WordPress is using an external object cache."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:251
+msgid "Server environment"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:257
+msgid "PHP version"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:259
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:266
+msgid "How to update your PHP version"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:270
+msgid ""
+"WooCommerce will run under this version of PHP, however, some features such "
+"as geolocation are not compatible. Support for this version will be dropped "
+"in the next major release. We recommend using PHP version 7.2 or above for "
+"greater performance and security."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:272
+msgid ""
+"WooCommerce will run under this version of PHP, however, it has reached end "
+"of life. We recommend using PHP version 7.2 or above for greater performance "
+"and security."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:274
+msgid ""
+"We recommend using PHP version 7.2 or above for greater performance and "
+"security."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:285
+msgid "PHP post max size"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:287
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:293
+msgid "PHP time limit"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:295
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:300
+msgid "Minimum value is 300. "
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:306
+msgid "600 is recommanded. "
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:309
+msgid "Current time limit is sufficient. "
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:315
+msgid "PHP max input vars"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:317
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:321
+msgid "Minimum value is 1000. "
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:327
+msgid "2000 is recommanded. "
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:330
+msgid ""
+"3000 or more may be required if you use lot of plugins use or you have large "
+"amount of menu item."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:335
+msgid "cURL version"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:337
+msgid "The version of cURL installed on your server."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:342
+msgid "SUHOSIN installed"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:353
+msgid "MySQL version"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:355
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:360
+#, php-format
+msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:360
+msgid "WordPress requirements"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:369
+msgid "Max upload size"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:371
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:376
+msgid "Default timezone is UTC"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:378
+msgid "The default timezone for your server."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:384
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:392
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:394
+msgid ""
+"Payment gateways can use cURL to communicate with remote servers to "
+"authorize payments, other plugins may also use it when communicating with "
+"remote services."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:401
+msgid ""
+"Your server does not have fsockopen or cURL enabled - PayPal IPN and other "
+"scripts which communicate with other servers will not work. Contact your "
+"hosting provider."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:407
+msgid "SoapClient"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:409
+msgid ""
+"Some webservices like shipping use SOAP to get information from remote "
+"servers, for example, live shipping quotes from FedEx require SOAP to be "
+"installed."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:416
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - some gateway plugins which "
+"use SOAP may not work as expected."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:422
+msgid "DOMDocument"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:424
+msgid ""
+"HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:431
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - HTML/Multipart emails, and "
+"also some extensions, will not work without DOMDocument."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:437
+msgid "GZip"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:439
+msgid "GZip (gzopen) is used to open the GEOIP database from MaxMind."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:446
+#, php-format
+msgid ""
+"Your server does not support the %s function - this is required to use the "
+"GeoIP database from MaxMind."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:452
+msgid "Multibyte string"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:454
+msgid ""
+"Multibyte String (mbstring) is used to convert character encoding, like for "
+"emails or converting characters to lowercase."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:461
+#, php-format
+msgid ""
+"Your server does not support the %s functions - this is required for better "
+"character encoding. Some fallbacks will be used instead for it."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:467
+msgid "Remote post"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:469
+msgid ""
+"PayPal uses this method of communicating when sending back transaction "
+"information."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:476
+#: ../computer-repair/framework/dashboard/admin/status.php:491
+#, php-format
+msgid "%s failed. Contact your hosting provider."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:482
+msgid "Remote get"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/status.php:484
+msgid ""
+"WooCommerce plugins may use this method of communication when checking for "
+"plugin updates."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:9
+#, php-format
+msgid ""
+"%s provides free support for 6 months for every LICENSE you purchase. \n"
+"              You are also able to extend support through subscriptions via "
+"ThemeForest. \n"
+"              Our support center will handle all supports from our company "
+"website. \n"
+"              Follow these steps to get access to your support. \n"
+"              %s community are given below."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:20
+msgid ""
+"Please remember! Our support time is Monday to Friday 8.00AM to 05.00PM (GMT "
+"6+). We're very grateful for your patience during the off days."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:27
+msgid "Submit A Ticket"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:28
+msgid ""
+"Register your purchase first and get access to our support service and other "
+"resources to let us provide you our excellent support."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:29
+msgid "Submit a ticket"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:31
+#: ../computer-repair/framework/dashboard/admin/support.php:33
+msgid "Documentation"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:32
+msgid ""
+"If you want to get the whole ball of wax of our theme, this is the place for "
+"you to check. It has an incredible reserve of information for different "
+"aspects of life."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:35
+#: ../computer-repair/framework/dashboard/admin/support.php:38
+msgid "Video Tutorials"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/support.php:36
+msgid ""
+"Video tutorials are one of the best ways to learn something, right?\n"
+"We provide tutorials in our youtube channel. Subscribe and get access to a "
+"library of high definition, easily narrated video tutorials. Dont forget to "
+"click the bell button to get notified every time we upload a video."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/wellcome.php:1
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/admin/wellcome.php:4
+#, php-format
+msgid ""
+"Thank you so much for using %s Theme! Please <a href=\"?page=%sproduct-"
+"registration\">activate your product</a> to get updates, to get demo "
+"content, automatic plugins updates and theme support. Check out the support "
+"tab to learn more about our support. We hope you enjoy it!"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:119
+#, php-format
+msgid ""
+"To receive automatic updates license activation is required. Please visit <a "
+"href=\"%s\">Setting</a> page."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:169
+msgid "License Activated"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:173
+msgid "License Deactiveted"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:184
+msgid "License Key saved"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:188
+msgid "License Key blank"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:267
+msgid "Require Activation"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:267
+#, php-format
+msgid ""
+"%s Theme Need to active with purchase code. Otherwise you can't Active / "
+"Update Bundle Plugin. You can active from <a href='%s'>Here</a>."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:268
+msgid "Dismiss this notice."
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:301
+msgid "Copied!"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:330
+msgid "Getting Started"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:331
+msgid "Registration"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:333
+msgid "Plugins"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:336
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:338
+msgid "Demo Import"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:341
+msgid "Icon Add"
+msgstr ""
+
+#: ../computer-repair/framework/dashboard/class-computer-repair-dashboard.php:343
+msgid "Support"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:22
+msgid "Styling Settings"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:23
+msgid "All Styling Settings"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:29
+msgid "Comon Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:39
+msgid "Body Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:61
+msgid "Heading Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:73
+msgid "Heading White Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:84
+msgid "Body White Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:95
+msgid "Theme Active Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:106
+msgid "Theme Gradient Primary Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:117
+msgid "Theme Gradient Secondary Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:128
+msgid "Theme Active Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:139
+msgid "Services Icon"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:150
+msgid "Services Icon Bg"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:161
+msgid "Services Icon Bg Hover"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:172
+msgid "Big Icon"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:184
+msgid "Header Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:194
+msgid "Header Phone Number Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:205
+msgid "Header Phone Number Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:216
+msgid "Header Icon Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:228
+msgid "MainMenu Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:239
+msgid "Sub Menu Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:251
+msgid "Sub Menu Hover Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:263
+msgid "Menu Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:274
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:285
+msgid "Dropdown Menu Top Border"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:296
+msgid "Dropdown Menu Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:308
+msgid "Dropdown Menu Text Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:319
+msgid "Mobile Menu Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:327
+msgid "Slider Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:337
+msgid "Slider Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:348
+msgid "Slider Text Span Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:359
+msgid "Slider Navigation Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:368
+msgid "Button Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:378
+msgid "Button Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:389
+msgid "Button Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:400
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:411
+msgid "Button Bg Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:422
+msgid "Button Two Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:433
+msgid "Button Two Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:444
+msgid "Button Two Bg Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:455
+msgid "Button Two Text Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:466
+msgid "Button Three Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:477
+msgid "Button Three Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:485
+msgid "Other Section Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:496
+msgid "Testimonials Author Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:507
+msgid "Testimonials text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:518
+msgid "Testimonials Pagination Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:529
+msgid "About Hexa Icon Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:540
+msgid "About Hexa Icon Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:551
+msgid "About Hexa Icon Border Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:562
+msgid "About Hexa Icon Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:573
+msgid "About Hexa Icon Bg Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:585
+msgid "About Team Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:596
+msgid "Blog Title Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:607
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:618
+msgid "Contact page social Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:627
+msgid "Footer Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:638
+msgid "Footer Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:649
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:660
+msgid "Footer Text Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:671
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:682
+msgid "Footer terms & Condition Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:693
+msgid "Footer terms & Condition Text Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:702
+msgid "Shop Page Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:713
+msgid "Shop Active Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:724
+msgid "Shop Active Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:735
+msgid "Cart Icon Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:746
+msgid "Cart Icon Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:757
+msgid "Cart Icon Bg Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:768
+msgid "Cart Icon Hover Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:779
+msgid "Shop filter Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:790
+msgid "Shop Sale lavel Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:801
+msgid "Shop Sale lavel Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:813
+msgid "Shop Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:824
+msgid "Shop Price Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:835
+msgid "Shop Rating Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:846
+msgid "Shop Pagination Bg Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:857
+msgid "Shop Pagination Text Color"
+msgstr ""
+
+#: ../computer-repair/framework/framework_customizer.php:868
+msgid "Shop Pagination Border Color"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:24
+#: ../computer-repair/framework/redux.config.php:25
+msgid "Computer Repair"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:119
+msgid "Header Settings"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:121
+msgid "All header settings"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:128
+msgid "Header Design"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:129
+#: ../computer-repair/framework/redux.config.php:647
+msgid "Select header design type"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:140
+msgid "Show Transparent Header"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:141
+msgid "Enable or Disable site Transparent Header"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:143
+#: ../computer-repair/framework/redux.config.php:152
+#: ../computer-repair/framework/redux.config.php:177
+#: ../computer-repair/framework/redux.config.php:186
+#: ../computer-repair/framework/redux.config.php:195
+#: ../computer-repair/framework/redux.config.php:204
+#: ../computer-repair/framework/redux.config.php:259
+#: ../computer-repair/framework/redux.config.php:292
+#: ../computer-repair/framework/redux.config.php:406
+#: ../computer-repair/framework/redux.config.php:474
+#: ../computer-repair/framework/redux.config.php:509
+#: ../computer-repair/framework/redux.config.php:784
+#: ../computer-repair/framework/redux.config.php:848
+#: ../computer-repair/framework/redux.config.php:863
+#: ../computer-repair/framework/redux.config.php:888
+msgid "Enable"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:144
+#: ../computer-repair/framework/redux.config.php:153
+#: ../computer-repair/framework/redux.config.php:178
+#: ../computer-repair/framework/redux.config.php:187
+#: ../computer-repair/framework/redux.config.php:196
+#: ../computer-repair/framework/redux.config.php:205
+#: ../computer-repair/framework/redux.config.php:260
+#: ../computer-repair/framework/redux.config.php:293
+#: ../computer-repair/framework/redux.config.php:407
+#: ../computer-repair/framework/redux.config.php:475
+#: ../computer-repair/framework/redux.config.php:510
+#: ../computer-repair/framework/redux.config.php:785
+#: ../computer-repair/framework/redux.config.php:849
+#: ../computer-repair/framework/redux.config.php:864
+#: ../computer-repair/framework/redux.config.php:889
+msgid "Disable"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:149
+msgid "Display preloader before page load"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:150
+msgid "Enable or Disable site preloader"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:159
+msgid "Change loading text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:160
+msgid "Loading Text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:167
+#: ../computer-repair/framework/redux.config.php:212
+#: ../computer-repair/framework/redux.config.php:224
+#: ../computer-repair/framework/redux.config.php:246
+#: ../computer-repair/framework/redux.config.php:333
+#: ../computer-repair/framework/redux.config.php:345
+#: ../computer-repair/framework/redux.config.php:357
+#: ../computer-repair/framework/redux.config.php:369
+#: ../computer-repair/framework/redux.config.php:381
+#: ../computer-repair/framework/redux.config.php:393
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:168
+msgid "Add/Upload preloader using the WordPress native uploader"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:169
+msgid "Site Preloader"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:174
+msgid "Display Header Sticky"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:175
+msgid "Enable or Disable Header Sticky"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:183
+msgid "Disable Cart in Home"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:184
+msgid "Enable or Disable the cart button in home page?"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:192
+msgid "Disable Cart in Full Site"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:193
+msgid "Disable or Enable the cart button in full Site?"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:201
+msgid "Enable Cart Always in Mobile"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:202
+msgid "Enable or Disable the cart button Always in Mobile?"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:213
+msgid "Add/Upload logo using the WordPress native uploader"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:214
+msgid "Site Logo"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:225
+#: ../computer-repair/framework/redux.config.php:247
+#: ../computer-repair/framework/redux.config.php:334
+#: ../computer-repair/framework/redux.config.php:346
+#: ../computer-repair/framework/redux.config.php:358
+#: ../computer-repair/framework/redux.config.php:370
+#: ../computer-repair/framework/redux.config.php:382
+#: ../computer-repair/framework/redux.config.php:394
+#: ../computer-repair/framework/redux.config.php:814
+msgid "Add/Upload mobile logo using the WordPress native uploader"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:226
+msgid "Site mobile Logo"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:235
+msgid "Favicon URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:237
+msgid "Set favicon for your theme"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:238
+msgid "Upload favicon for the theme"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:248
+msgid "Inner Page header image"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:256
+msgid "Display Header Top Mobile"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:257
+msgid "Enable or disable header mobile content"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:289
+msgid "Show Contact Info Header"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:290
+msgid "Enable or Disable Contact Info Header"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:310
+#: ../computer-repair/framework/redux.config.php:720
+msgid "Contact Text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:311
+msgid "Contact Info Text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:317
+msgid "Contact No"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:318
+msgid "Contact No Text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:324
+msgid "Email Address"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:325
+msgid "Email Address Text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:335
+msgid "Call Us Arrow 1"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:347
+msgid "Call Us Arrow 2"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:359
+msgid "Call Us Arrow 3"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:371
+msgid "Call Us Arrow 1 1"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:383
+msgid "Call Us Arrow 2 1"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:395
+msgid "Call Us Arrow 3 1"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:403
+msgid "Display Header Search Icon"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:404
+msgid "Enable or disable header Search Icon"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:412
+#: ../computer-repair/framework/redux.config.php:657
+msgid "Facebook URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:418
+#: ../computer-repair/framework/redux.config.php:663
+msgid "Twitter URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:424
+#: ../computer-repair/framework/redux.config.php:669
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:430
+#: ../computer-repair/framework/redux.config.php:705
+msgid "Youtube URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:435
+#: ../computer-repair/framework/redux.config.php:710
+msgid "Whatsapp URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:440
+#: ../computer-repair/framework/redux.config.php:715
+msgid "Snapchat URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:445
+msgid "Add Social"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:446
+msgid "Add Social link."
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:448
+msgid "Give the Title"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:449
+msgid "Give Url"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:450
+msgid "insert Image"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:451
+msgid "This Field Not Working"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:452
+msgid "You can give here Icon Class"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:462
+msgid "Modal Settings"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:464
+msgid "Modal Settings form"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:471
+#: ../computer-repair/framework/redux.config.php:506
+msgid "Enable or Disable"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:472
+msgid "Enable or Disable modal on site"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:480
+msgid "Modal Title"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:481
+msgid "Modal title which one will be shown at top of modal"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:487
+#: ../computer-repair/framework/redux.config.php:522
+msgid "Apointment Form"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:497
+msgid "Modal 2 Settings"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:499
+msgid "Modal 2 Settings form"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:507
+msgid "Enable or Disable modal 2 on site"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:515
+msgid "Modal 2 Title"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:516
+msgid "Modal 2 title which one will be shown at top of modal"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:532
+#: ../computer-repair/framework/redux.config.php:534
+msgid "Typography"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:541
+msgid "Body Typography"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:542
+msgid "Select body font family, size, line height, color and weight."
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:555
+msgid "H1, H2 lg Font"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:556
+#: ../computer-repair/framework/redux.config.php:570
+#: ../computer-repair/framework/redux.config.php:584
+#: ../computer-repair/framework/redux.config.php:597
+#: ../computer-repair/framework/redux.config.php:610
+#: ../computer-repair/framework/redux.config.php:622
+msgid "Select heading font family and weight."
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:569
+msgid "H2 Font"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:583
+msgid "H3 Font"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:596
+msgid "H4 Font"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:609
+msgid "H5 Font"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:621
+msgid "H6 Font"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:637
+msgid "Footer Settings"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:639
+#: ../computer-repair/framework/redux.config.php:838
+#: ../computer-repair/framework/redux.config.php:878
+msgid "These are really basic fields!"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:646
+msgid "Footer Design"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:675
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:681
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:687
+msgid "Instagram URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:693
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:699
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:726
+msgid "Contact Phone No"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:732
+msgid "Contact Location"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:738
+msgid "Business Hours"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:744
+msgid "Footer Email Address"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:750
+msgid "Footer Quick Link One URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:756
+msgid "Footer Quick Link One Text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:762
+msgid "Footer Quick Link Two URL"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:768
+msgid "Footer Quick Link Two Text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:774
+msgid "Copyright"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:775
+msgid "Copyright Text"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:781
+msgid "Show Contact Map In Footer"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:782
+msgid "Enable or Disable Show Contact Map In Footer"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:790
+msgid "Google Map Api Key"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:791
+msgid "Set Google Map Api Key"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:797
+msgid "Latitude"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:798
+msgid "The latitude  to center the map "
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:804
+msgid "Longitude"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:805
+msgid "The longitude  to center the map "
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:813
+msgid "Google Map Marker."
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:815
+msgid "Map Marker"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:825
+msgid "Back To Top Icon Change"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:826
+msgid "Add/Upload back to top icon using the WordPress native uploader"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:827
+msgid "Back To Top"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:836
+msgid "Device Settings"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:845
+#: ../computer-repair/framework/redux.config.php:846
+msgid "Show Cart Button In Device Service"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:854
+msgid "Slug Computer Repair Device"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:855
+msgid "Change Computer Repair Device Slug Name"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:861
+msgid "Is Virtual Product"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:876
+msgid "Extra Settings"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:885
+msgid "Gradient Color Enable or Disable"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:886
+msgid "Enable or Disable Gradient for site"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:894
+msgid "Slug Computer Repair Services"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:895
+msgid "Change Computer Repair Service Slug Name"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:901
+msgid "Computer Repair Services Archive Page Name"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:902
+msgid "Change Computer Repair Service Page Name"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:908
+msgid "Extra CSS"
+msgstr ""
+
+#: ../computer-repair/framework/redux.config.php:909
+msgid "Extra CSS just after theme styles"
+msgstr ""
+
+#: ../computer-repair/functions.php:147
+msgid "Primary Menu"
+msgstr ""
+
+#: ../computer-repair/functions.php:148
+msgid "Footer Menu"
+msgstr ""
+
+#: ../computer-repair/functions.php:249
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../computer-repair/functions.php:251
+msgid "Blog sidebar area"
+msgstr ""
+
+#: ../computer-repair/functions.php:261
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../computer-repair/functions.php:263
+msgid "Page sidebar area"
+msgstr ""
+
+#: ../computer-repair/functions.php:273
+msgid "Service Sidebar"
+msgstr ""
+
+#: ../computer-repair/functions.php:275
+msgid "Service sidebar area"
+msgstr ""
+
+#: ../computer-repair/functions.php:285
+msgid "Contact Us"
+msgstr ""
+
+#: ../computer-repair/functions.php:287
+msgid "Contact Us sidebar area"
+msgstr ""
+
+#: ../computer-repair/functions.php:297
+msgid "Woo Shop Sidebar"
+msgstr ""
+
+#: ../computer-repair/functions.php:299
+msgid "Shop sidebar area"
+msgstr ""
+
+#: ../computer-repair/functions.php:475
+msgid "close"
+msgstr ""
+
+#: ../computer-repair/functions.php:497
+msgid "strong yellow"
+msgstr ""
+
+#: ../computer-repair/functions.php:502
+msgid "strong white"
+msgstr ""
+
+#: ../computer-repair/functions.php:507
+msgid "light black"
+msgstr ""
+
+#: ../computer-repair/functions.php:512
+msgid "very light gray"
+msgstr ""
+
+#: ../computer-repair/functions.php:517
+msgid "very dark black"
+msgstr ""
+
+#: ../computer-repair/functions.php:528
+msgid "Small"
+msgstr ""
+
+#: ../computer-repair/functions.php:533
+msgid "Normal"
+msgstr ""
+
+#: ../computer-repair/functions.php:538
+msgid "Large"
+msgstr ""
+
+#: ../computer-repair/functions.php:543
+msgid "Huge"
+msgstr ""
+
+#: ../computer-repair/functions.php:654
+msgid "Search Here"
+msgstr ""
+
+#: ../computer-repair/functions.php:656
+msgid "Search"
+msgstr ""
+
+#: ../computer-repair/functions.php:798 ../computer-repair/functions.php:847
+#: ../computer-repair/functions.php:860
+msgid "View cart"
+msgstr ""
+
+#: ../computer-repair/functions.php:802
+msgid "Checkout"
+msgstr ""
+
+#: ../computer-repair/inc/class-walker-comment.php:59
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../computer-repair/inc/class-walker-comment.php:75
+msgid "Edit"
+msgstr ""
+
+#: ../computer-repair/inc/post_meta.php:35
+#: ../computer-repair/template-parts/content-search.php:35
+msgid "by"
+msgstr ""
+
+#: ../computer-repair/inc/post_meta.php:56
+#, php-format
+msgctxt "comments title"
+msgid "(01) <span class=\"computer_repair_hide_on_grid\">Comment</span>"
+msgid_plural ""
+"(%1$s) <span class=\"computer_repair_hide_on_grid\">Comments</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/inc/template-tags.php:55
+msgid ", "
+msgstr ""
+
+#: ../computer-repair/inc/template-tags.php:57
+#, php-format
+msgid "Posted in : %1$s"
+msgstr ""
+
+#: ../computer-repair/inc/template-tags.php:61
+msgid " "
+msgstr ""
+
+#: ../computer-repair/inc/template-tags.php:63
+#, php-format
+msgid "Tagged : %1$s"
+msgstr ""
+
+#: ../computer-repair/inc/template-tags.php:70
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: ../computer-repair/inc/template-tags.php:77
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../computer-repair/index.php:70
+msgid "More Posts"
+msgstr ""
+
+#: ../computer-repair/index.php:71
+msgid "Load posts via AJAX"
+msgstr ""
+
+#: ../computer-repair/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../computer-repair/search.php:18
+#: ../computer-repair/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../computer-repair/template-parts/content-audio.php:15
+#: ../computer-repair/template-parts/content-gallery.php:15
+#: ../computer-repair/template-parts/content-link.php:15
+#: ../computer-repair/template-parts/content-quote.php:15
+#: ../computer-repair/template-parts/content-search.php:15
+#: ../computer-repair/template-parts/content-video.php:15
+#: ../computer-repair/template-parts/content.php:15
+msgid "Sticky Post"
+msgstr ""
+
+#: ../computer-repair/template-parts/content-audio.php:41
+#: ../computer-repair/template-parts/content-audio.php:59
+#: ../computer-repair/template-parts/content-gallery.php:45
+#: ../computer-repair/template-parts/content-gallery.php:63
+#: ../computer-repair/template-parts/content-link.php:43
+#: ../computer-repair/template-parts/content-link.php:61
+#: ../computer-repair/template-parts/content-quote.php:50
+#: ../computer-repair/template-parts/content-search.php:49
+#: ../computer-repair/template-parts/content-search.php:67
+#: ../computer-repair/template-parts/content-video.php:39
+#: ../computer-repair/template-parts/content-video.php:57
+#: ../computer-repair/template-parts/content.php:38
+#: ../computer-repair/template-parts/content.php:49
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../computer-repair/template-parts/content-audio.php:45
+#: ../computer-repair/template-parts/content-gallery.php:49
+#: ../computer-repair/template-parts/content-link.php:47
+#: ../computer-repair/template-parts/content-page.php:30
+#: ../computer-repair/template-parts/content-quote.php:54
+#: ../computer-repair/template-parts/content-search.php:53
+#: ../computer-repair/template-parts/content-video.php:43
+#: ../computer-repair/template-parts/content.php:56
+#: ../computer-repair/woocommerce/loop/pagination-top.php:30
+msgid "Pages:"
+msgstr ""
+
+#: ../computer-repair/template-parts/content-audio.php:49
+#: ../computer-repair/template-parts/content-gallery.php:53
+#: ../computer-repair/template-parts/content-link.php:51
+#: ../computer-repair/template-parts/content-quote.php:58
+#: ../computer-repair/template-parts/content-search.php:57
+#: ../computer-repair/template-parts/content-video.php:47
+#: ../computer-repair/template-parts/content.php:60
+msgid "Page"
+msgstr ""
+
+#: ../computer-repair/template-parts/content-audio.php:55
+#: ../computer-repair/template-parts/content-gallery.php:59
+#: ../computer-repair/template-parts/content-link.php:57
+#: ../computer-repair/template-parts/content-search.php:63
+#: ../computer-repair/template-parts/content-video.php:53
+#: ../computer-repair/template-parts/content.php:45
+msgid "Continue Reading"
+msgstr ""
+
+#: ../computer-repair/template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../computer-repair/template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../computer-repair/template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../computer-repair/template-parts/content-search.php:20
+msgid "by&nbsp;"
+msgstr ""
+
+#: ../computer-repair/template-parts/footer-part-1.php:19
+#: ../computer-repair/template-parts/footer-part-2.php:19
+#: ../computer-repair/template-parts/header-part-2.php:125
+#: ../computer-repair/template-parts/header-part-2.php:132
+#: ../computer-repair/template-parts/header-part-2.php:141
+msgid "image"
+msgstr ""
+
+#: ../computer-repair/template-parts/header-part-1.php:108
+#: ../computer-repair/template-parts/header-part-2.php:154
+#: ../computer-repair/template-parts/header-part-3.php:110
+msgid "CLOSE MENU"
+msgstr ""
+
+#: ../computer-repair/template-parts/header-part-2.php:243
+msgid "Search..."
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-empty.php:29
+msgid "Return to shop"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:31
+#: ../computer-repair/woocommerce/cart/cart.php:77
+#: ../computer-repair/woocommerce/checkout/review-order.php:24
+msgid "Product"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:32
+#: ../computer-repair/woocommerce/cart/cart.php:101
+msgid "Price"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:33
+#: ../computer-repair/woocommerce/cart/cart.php:107
+msgid "Quantity"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:34
+#: ../computer-repair/woocommerce/cart/cart.php:125
+#: ../computer-repair/woocommerce/checkout/review-order.php:25
+#: ../computer-repair/woocommerce/checkout/review-order.php:66
+msgid "Subtotal"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:90
+#: ../computer-repair/woocommerce/cart/mini-cart.php:73
+msgid "Available on backorder"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:146
+msgid "Coupon:"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:148
+msgid "Coupon code"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:150
+msgid "Apply coupon"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/cart.php:156
+msgid "Update cart"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/mini-cart.php:108
+msgid "No products in the cart."
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:50
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:55
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:56
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: ../computer-repair/woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: ../computer-repair/woocommerce/checkout/review-order.php:113
+msgid "Total"
+msgstr ""
+
+#: ../computer-repair/woocommerce/loop/orderby.php:27
+msgid "Shop order"
+msgstr ""
+
+#: ../computer-repair/woocommerce/loop/result-count.php:28
+#: ../computer-repair/woocommerce/loop/result-count.php:37
+msgid "Showing the single result"
+msgstr ""
+
+#: ../computer-repair/woocommerce/loop/result-count.php:29
+msgid "Showing all"
+msgstr ""
+
+#: ../computer-repair/woocommerce/loop/result-count.php:30
+msgid " results"
+msgstr ""
+
+#: ../computer-repair/woocommerce/loop/result-count.php:31
+msgid "Showing "
+msgstr ""
+
+#: ../computer-repair/woocommerce/loop/result-count.php:32
+msgid "with first and last result"
+msgstr ""
+
+#: ../computer-repair/woocommerce/loop/result-count.php:33
+msgid " of "
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:36
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:39
+msgid "Reviews"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:69
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:82
+msgid "Add a review"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:82
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:83
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:93
+msgid "Submit"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:103
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:107
+msgid "Your rating"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:108
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:109
+msgid "Perfect"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:110
+msgid "Good"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:111
+msgid "Average"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:112
+msgid "Not that bad"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:113
+msgid "Very poor"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:117
+msgid "Your review"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:117
+msgid "Comment"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product-reviews.php:126
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product/add-to-cart/variable.php:45
+msgid "Clear"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product/product-image.php:47
+msgid "Awaiting product image"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../computer-repair/woocommerce/single-product/related.php:28
+msgid "<span class=\"color\">Similar</span> Products"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: ../computer-repair/woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
